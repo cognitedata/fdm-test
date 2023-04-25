@@ -19,6 +19,6 @@
   "license": "ISC",
   "dependencies": {
     "@cognite/cdf-cli": "^0.0.5--alpha10",
-    "yaml": "^2.1.1"
+    "yaml": "^2.2.2"
   }
 }
